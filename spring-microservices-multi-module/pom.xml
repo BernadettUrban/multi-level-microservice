@@ -18,6 +18,7 @@
         <module>order-service</module>
         <module>product-service</module>
         <module>discovery-server2</module>
+        <module>api-gateway</module>
 
     </modules>
 
